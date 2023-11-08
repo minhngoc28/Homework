@@ -9,6 +9,7 @@ count=0
 n=2 #the first prime number
 print("The first", N, "prime numbers are: ")
 
+#Find the first N prime numbers from 2
 while count < N:
     #Check whether n is prime number or not?
     check_prime = True
