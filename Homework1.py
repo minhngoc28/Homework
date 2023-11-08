@@ -9,7 +9,6 @@ count=0
 n=2 #the first prime number
 print("The first", N, "prime numbers are: ")
 
-#Print remaining N-1 prime numbers
 while count < N:
     #Check whether n is prime number or not?
     check_prime = True
