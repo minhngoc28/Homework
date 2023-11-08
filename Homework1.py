@@ -3,7 +3,6 @@
 # or provided as input from the user.
 
 from math import *
-#Input N - an integer number with request the first N prime numbers
 N=int(input("Enter a number: "))
 count=0
 n=2 #the first prime number
